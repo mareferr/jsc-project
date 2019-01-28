@@ -1,2 +1,2 @@
-# jsc-project
+# myFirstRepo
 My first project
